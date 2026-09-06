@@ -1,5 +1,3 @@
-<img width="1919" height="1152" alt="image" src="https://github.com/user-attachments/assets/e038b407-6a1a-46ac-9c75-f5ba6dafabb1" /># English Tutor Website
-
 A responsive website developed for an English tutor to present educational services and attract new students.
 
 ## About the project
