@@ -1,16 +1,37 @@
-# React + Vite
+<img width="1919" height="1152" alt="image" src="https://github.com/user-attachments/assets/e038b407-6a1a-46ac-9c75-f5ba6dafabb1" /># English Tutor Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive website developed for an English tutor to present educational services and attract new students.
 
-Currently, two official plugins are available:
+## About the project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The project was created as a real-world website for an English tutor.  
+It includes information about the teacher, educational materials, blog sections and contact options.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive design
+- English learning blog
+- Grammar and vocabulary sections
+- Contact buttons
+- SEO optimization
+- Sitemap and robots.txt
+- Deployed website
 
-## Expanding the ESLint configuration
+## Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- Vite
+- HTML5
+- CSS3
+- Git & GitHub
+- Vercel
+
+## What I learned
+
+During this project I practiced React development, component-based architecture, responsive web design, deployment and basic SEO optimization.
+
+## Author
+
+Bekhruz Rakhmatulloev  
+Junior Developer / CS Student
